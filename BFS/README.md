@@ -463,3 +463,6 @@ BFS v2 thường duyệt nhiều node hơn
 ```
 
 do node đích đã được đưa vào queue trước khi phát hiện.
+# Tác giả
+
+**24133077 Phạm Quý Vỹ**
